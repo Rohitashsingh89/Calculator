@@ -44,7 +44,6 @@ Please Visite to this project's `Calculator`.
 
 **Client:** HTML, CSS, JAVA SCRIPT
 
-**Server:** flask
 
 ## Screenshots
 ![image](https://user-images.githubusercontent.com/93479842/216772926-05752ae0-a5d8-47fe-8c29-7cded911fca9.png)
@@ -52,6 +51,6 @@ Please Visite to this project's `Calculator`.
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS, FLASK (PYTHON)
+Javascript, HTML, CSS
 
 
